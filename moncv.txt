@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr_FR">
+    <head>
+        <title>Mon C.V en ligne</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles/style">
+    </head>
+    <body>
+      
+        <nav>
+            <div class="table">
+                <ul>
+                    <li>
+                       <a href="index5.html">Accueil</a>
+                    </li>
+                    <li >
+                      <a href="index A Propos de.html">A PROPOS</a>
+                    </li>
+                    <li >
+                      <a href="index mon travail.html">Travail</a>
+                    </li>
+                    <li >
+                      <a href="index Mon C.V.html">C.V</a>
+                    </li>
+                   <li>
+                      <a href="index Contact moi.html">Contact</a>
+                   </li>
+               </ul>
+               </div>
+        </nav>
+
+        <header>
+          <h1>Mon C.V txt </h1>
+
+      </header>
+
+      <div>
+        <h3>competences</h3>
+        <ul>
+            <li>creativite</li>
+            <li>travail en equipe</li>
+            <li>autonomie</li>
+        </ul>
+        <h3>experiences</h3>
+        <p> "Mon parcours m'a permis de m'impliquer dans (noms de métiers/activités que vous avez connus). J'ai ainsi une vision globale du fonctionnement d'une entreprise et de l'interaction entre ses métiers. Je me propose de mettre mon expérience et mes connaissances à votre service."</p>
+
+      <br>
+      
+      <a href="Mon C.V Personnel">download</a>
+      
+      </div>
+
+
+        <footer>
+           <p>Site crée en 2024 </p>
+        </footer>
+        
+    </body>
+</html
